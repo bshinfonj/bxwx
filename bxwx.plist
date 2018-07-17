@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://test.365yunxueyuan.com/service/ios/bxwx.ipa</string>
+					<string>http://172.16.202.84/service/ios/bxwx.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://test.365yunxueyuan.com/service/bxwxClient.png</string>
+					<string>http://172.16.202.84/service/bxwxClient.png</string>
 			    </dict>
 			</array>
 			<key>metadata</key>
